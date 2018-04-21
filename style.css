@@ -1,0 +1,48 @@
+h1	{
+	color:white;
+	font-size: 50px;
+	
+
+/*font-family: 'Raleway', sans-serif;*/
+font-family: 'Ubuntu', sans-serif;
+/*font-family: 'Muli', sans-serif;
+font-family: 'Nunito', sans-serif;*/
+}
+
+h2	{
+	color :white;
+	font-size: 30px;
+font-family: 'Ubuntu', sans-serif;
+
+}
+
+
+body {
+	background-color: maroon;
+	
+}
+
+
+#crown
+{
+	height: :50%;
+	width: 35%;
+
+	background-image: white;
+}
+
+#box1
+{
+	/*background-color: maroon;*/
+	border: 5px double white;
+	text-align: center;
+	/* step 1 to cente
+	r box*/
+	width: 40%;
+	min-width: 300px;
+	/* step 2 to center box*/
+	height: :50%;
+
+	margin: 10px auto;
+	padding: 30px;
+}
